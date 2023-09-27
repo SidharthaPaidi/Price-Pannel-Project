@@ -8,6 +8,7 @@ This repository contains a basic responsive price panel created using HTML5 and 
 
 You can view a live demo of the price panel [here](https://sidharthapaidi.github.io/Price-Pannel-Project/).
 
+
 ## Features
 
 - Responsive design that adapts to different screen sizes.
