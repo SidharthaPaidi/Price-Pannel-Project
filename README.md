@@ -6,7 +6,7 @@ This repository contains a basic responsive price panel created using HTML5 and 
 
 ## Demo
 
-You can view a live demo of the price panel [here](https://your-username.github.io/your-repo-name/).
+You can view a live demo of the price panel [here](https://sidharthapaidi.github.io/Price-Pannel-Project/).
 
 ## Features
 
@@ -14,9 +14,7 @@ You can view a live demo of the price panel [here](https://your-username.github.
 - Clean and modern user interface.
 - Easily customizable to fit your branding or design requirements.
 
-## Screenshots
 
-![Price Panel](screenshots/price-panel.png)
 
 ## Getting Started
 
