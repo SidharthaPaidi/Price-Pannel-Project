@@ -93,8 +93,9 @@ html{
 
 }
 .pricing-features-item{
-    color: #016ff9;
+    
     font-weight: 600;
+    font-size: 12px;
     letter-spacing: 1px;
     line-height: 1.5;
     padding: 15px 0;
@@ -111,7 +112,7 @@ html{
 }
 .pricing-button{
     border: 1px solid #9dd1ff;
-    border-bottom: 1px solid #9dd1ff;
+    /* border-bottom: 1px solid #9dd1ff; */
     border-radius: 10px;
     padding: 15px 35px;
     color: #348efe;
@@ -139,6 +140,7 @@ html{
     .pricing-plan{
         border-bottom: none;
         border-right: 1px solid #e1f1ff;
+        padding: 25px 50px;
     }
     .pricing-plan:last-child{
         border-right: none;
